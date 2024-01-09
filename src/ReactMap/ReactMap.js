@@ -106,6 +106,6 @@ const ReactMap = (props) => {
 
 export default GoogleApiWrapper({
     // apiKey: process.env.REACT_APP_GOOGLE_API_KEY,
-    apiKey: "AIzaSyBYsWdrf2-qmKyP3XoXVeG0K7yYhJQgcG4",
+    apiKey: "YOUT_GOOGLE_API_KEY",
 })(ReactMap);
 
